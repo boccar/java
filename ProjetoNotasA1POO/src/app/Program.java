@@ -24,7 +24,8 @@ public class Program {
 		
 		System.out.println("\nO aluno " + s1.getAlunoNome() + " obteve os seguintes resultados:");
 		s1.calularFinal();
-		
+	
+		sc.close();
 	}
 
 }

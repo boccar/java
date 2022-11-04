@@ -80,6 +80,8 @@ public class Program {
 				System.out.println("Opcao inv�lida.");
 			}
 		}while(op!=0);
+
+		sc.close();
 	}
 
 }

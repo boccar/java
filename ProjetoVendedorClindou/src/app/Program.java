@@ -45,7 +45,7 @@ public class Program {
 				System.out.println("Opcao invalida.");
 			}
 		} while (op != 0);
-
+		sc.close();
 	}
 
 }

@@ -50,6 +50,7 @@ public class Program {
 		System.out.println(set1);
 		System.out.println("WINNER: " + set1.obterVencedor());
 
+		sc.close();
 	}
 
 }

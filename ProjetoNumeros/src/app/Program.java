@@ -10,25 +10,25 @@ public class Program {
 		int numero;
 		
 		do {
-			System.out.println("Informe um número positivo: ");
+			System.out.println("Informe um nï¿½mero positivo: ");
 			numero = sc.nextInt();
 			if(numero<0) {
-				System.out.println("Amigo, digite apenas números positivos.");
+				System.out.println("Amigo, digite apenas nï¿½meros positivos.");
 			}
 		}while(numero<0);
 	
-		Numero n1 = new Numero(numero);
+		//Numero n1 = new Numero(numero);
 		
 		int escolha;
 		
 		do {
 			System.out.println("*************** Menu *****************");
-			System.out.println("1 - Visualizar o número digitado");
-			System.out.println("2 - Alterar número");
-			System.out.println("3 - Visualizar Fatorial do número");
-			System.out.println("4 - Visualizar Somatorio do número");
+			System.out.println("1 - Visualizar o nï¿½mero digitado");
+			System.out.println("2 - Alterar nï¿½mero");
+			System.out.println("3 - Visualizar Fatorial do nï¿½mero");
+			System.out.println("4 - Visualizar Somatorio do nï¿½mero");
 			System.out.println("5 - Visualizar quantidade de multiplos do numero");
-			System.out.println("6 - Ver se o núemro é primo");
+			System.out.println("6 - Ver se o nï¿½emro ï¿½ primo");
 			System.out.println("0 - Sair");
 			System.out.println("->");
 			

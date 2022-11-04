@@ -61,6 +61,8 @@ public class Program {
 				System.out.println("\nOpcao invalida.\n");
 			}
 		} while (op != 0);
+
+		sc.close();
 	}
 
 }

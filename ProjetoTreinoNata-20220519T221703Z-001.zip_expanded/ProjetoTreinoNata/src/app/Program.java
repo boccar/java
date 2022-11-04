@@ -23,6 +23,8 @@ public class Program {
 		System.out.println("Media de marcas: " + media);
 		System.out.println("Maior marca: " + maior);
 		System.out.println("Menor marca: " + menor);
+
+		sc.close();
 	}
 
 }
