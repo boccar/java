@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="SmartImportWizard">
+		<item key="SmartImportRootWizardPage.STORE_HIDE_ALREADY_OPEN" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_CLOSE_IMPORTED" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
+		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
+		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="C:\Users\corre\Downloads\N2 Poo.zip"/>
+			<item value="C:\Users\corre\Downloads\ProjetoEmpresaPolimorfismo-20220622T235051Z-001.zip"/>
+			<item value="C:\Users\corre\Downloads\ProjetoEmpresa-20220609T223113Z-001.zip"/>
+			<item value="C:\Users\corre\eclipse-workspace\AgendaA1POO.zip"/>
+			<item value="C:\Users\corre\eclipse-workspace\AgendaA1POO"/>
+			<item value="C:\Users\corre\eclipse-workspace\ProjetoListaCompras"/>
+			<item value="C:\Users\corre\OneDrive\Área de Trabalho\ProjetoTreinoNata-20220519T221703Z-001.zip"/>
+			<item value="C:\Users\corre\eclipse-workspace"/>
+			<item value="C:\Users\corre\eclipse-workspace\Agenda"/>
+			<item value="C:\Users\corre\OneDrive\Área de Trabalho\ProjetoCaneta"/>
+			<item value="C:\Users\corre\OneDrive\Área de Trabalho\Agenda"/>
+			<item value="C:\Users\corre\OneDrive\Área de Trabalho\ProjetoArray"/>
+		</list>
+	</section>
+	<section name="org.eclipse.ui.internal.ide.dialogs.ProjectContentsLocationArea">
+		<item key="OUTSIDE_LOCATION" value="C:\Users\corre\eclipse-workspace\Agenda"/>
+	</section>
+	<section name="NewWizardAction">
+		<item key="NewWizardSelectionPage.STORE_SELECTED_ID" value="org.eclipse.php.ui.wizards.PHPProjectCreationWizard"/>
+		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
+			<item value="org.eclipse.ui.Basic"/>
+			<item value="org.eclipse.php.project.ui"/>
+			<item value="org.eclipse.ptp.rdt.ui.wizardCategory.Remote"/>
+			<item value="org.eclipse.ui.Examples"/>
+		</list>
+	</section>
+	<section name="BasicNewProjectResourceWizard">
+	</section>
+	<section name="NewSyncProjectWizard">
+	</section>
+</section>
