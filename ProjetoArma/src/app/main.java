@@ -2,7 +2,7 @@ package app;
 
 public class main {
 
-	public static void amain(String[] args) {
+	public static void main(String[] args) {
 
 		arma arma = new arma(0, 30);
 
