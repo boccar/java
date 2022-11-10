@@ -9,12 +9,17 @@ public class Program {
 
 		Studant s1 = new Studant();
 		notas n1 = new notas();
+		validar v1 = new validar();
 
 		System.out.println("Entre com o nome do aluno: ");
 		s1.setAlunoNome(sc.next());
 
 		System.out.println("Qual é a média?");
+		v1.validarMedia(sc.nextDouble());
 		n1.setMedia(sc.nextDouble());
+		
+		
+		//fazer a validação direto aqui 
 
 		System.out.println("Entre com a nota do primeiro trimestre: (Media " + n1.getMedia() + ", Maximo 100)");
 		n1.setNota1(sc.nextDouble());
